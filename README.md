@@ -16,10 +16,10 @@
 
 ## Comparison to other state-of-arts
 
-![results](E:\code\PADet\images\results.png)
+![results](images\results.png)
 
 ## Speed/Accuracy trade-off
-![](E:\code\PADet\images\speed.png)
+![speed](images\speed.png)
 
 #### Notes
 

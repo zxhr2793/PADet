@@ -25,3 +25,7 @@
 #### Notes
 
 - **V** means the backbone of VGG-16 and **R** is ResNet-101.
+
+## Todo
+- [] Release the evaluation codes and models
+- [] Release the training codes

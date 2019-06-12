@@ -10,7 +10,7 @@
 | Ours_512 | ResNet-101 | trainval35k | test-dev | 512×512 | 28.6 | 40.0 | 60.8    | 43.8     | 21.3  | 43.9  | 53.9  |
 #### Notes
 
-- Results of our models on $\textit{minival}$ set are 34.8, 37.6, 36.7, 39.6 respectively.
+- Results of our models on *minival* set are 34.8, 37.6, 36.7, 39.6 respectively.
 - The above results are obtained by single-scale training and testing without adopting scale-jitter training and inference augmentation (e.g., multi-scale, flip, voting)
 - The runtime are measured on our local machine with single NVIDIA GTX 1080 Ti, i7-6850k CPU, pyTorch 0.4.1, CUDA 9.0 and cuDNN v7.0. Different configures may induce various runtime. 
 
